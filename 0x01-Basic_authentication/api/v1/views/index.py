@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" index_py
+""" index.py module, API
 """
 from flask import jsonify, abort
 from api.v1.views import app_views

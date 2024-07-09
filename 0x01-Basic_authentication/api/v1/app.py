@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module app_py
+Module app.py handler
 """
 from os import getenv
 from api.v1.views import app_views

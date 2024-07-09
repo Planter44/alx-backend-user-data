@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" users_py
+"""users.py module API.
 """
 from api.v1.views import app_views
 from flask import abort, jsonify, request
